@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/main.5085d54b.chunk.js",
+    "main.js.map": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/main.5085d54b.chunk.js.map",
+    "runtime-main.js": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/runtime-main.bb67a624.js",
+    "runtime-main.js.map": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/runtime-main.bb67a624.js.map",
+    "static/js/2.7b24b9ca.chunk.js": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/2.7b24b9ca.chunk.js",
+    "static/js/2.7b24b9ca.chunk.js.map": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/2.7b24b9ca.chunk.js.map",
+    "index.html": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.7b24b9ca.chunk.js.LICENSE.txt": "https://ritikrawatkhandelwal.github.io/csb-igl9zl/static/js/2.7b24b9ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb67a624.js",
+    "static/js/2.7b24b9ca.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5085d54b.chunk.js"
+  ]
+}
